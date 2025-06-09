@@ -1,0 +1,22 @@
+[
+    {"name": "bomb", "description": "layer 7 - Attack Url [Bomb The Website]", "duration": "500"},
+    {"name": "mix", "description": "layer 7 - Attack Url [Bypass Website]", "duration": "500"},
+    {"name": "ninja", "description": "layer 7 - Attack Url [Slow Request But Good]", "duration": "500"},
+    {"name": "floodv2", "description": "layer 7 - Attack Url [Slow Request But Good]", "duration": "500"},
+    {"name": "flood", "description": "layer 7 - Attack Url [Slow Request But Good]", "duration": "500"},
+    {"name": "bypass", "description": "layer 7 - Attack Url [Slow Request But Good]", "duration": "500"},
+    {"name": "resetv2", "description": "layer 7 - Attack Url [Slow Request But Good]", "duration": "500"},
+    {"name": "reset", "description": "layer 7 - Attack Url [Slow Request But Good]", "duration": "500"},
+    {"name": "uam", "description": "layer 7 - Attack Url [Slow Request But Good]", "duration": "500"},
+    {"name": "udp", "description": "layer 7 - Attack Url [Slow Request But Good]", "duration": "500"},
+    {"name": "kill", "description": "layer 7 - Attack Url [Best Methods]", "duration": "500"},
+    {"name": "tls", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"},
+    {"name": "httpx", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"},
+    {"name": "h2", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"},
+    {"name": "vern", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"},
+    {"name": "vern-b", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"},
+    {"name": "browser", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"},
+    {"name": "h2-vern", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"},
+    {"name": "tcp", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"},
+    {"name": "udp-c", "description": "layer 7 - Attack Url [Http1 Spam]", "duration": "500"}
+]
